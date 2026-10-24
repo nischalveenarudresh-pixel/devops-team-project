@@ -1,0 +1,1 @@
+This is a file named main.txt which consists of terms and conditions and steps to use this remote repository.
